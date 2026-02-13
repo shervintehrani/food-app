@@ -15,10 +15,6 @@ database, storing menus and orders in JSON files instead.
 
 ## Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/food-order-app.git
-
 Enter project directory:
 
 cd food-order-app
