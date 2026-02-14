@@ -1,4 +1,4 @@
-# Laravel Food Ordering System (JSON Storage)
+# Laravel Small Food Ordering System (JSON Storage)
 
 A simple food ordering mini-project built with Laravel. This project
 demonstrates how to build a small ordering system without using a
